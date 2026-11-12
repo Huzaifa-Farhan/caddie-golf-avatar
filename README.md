@@ -66,11 +66,10 @@ See [docs/TEST_CASES.md](docs/TEST_CASES.md) for the six minimum conversation te
 
 ## Team
 
-| Name | Student ID | Role |
-|---|---|---|
-| [Name] | [ID] | [e.g., UX research, testing] |
-| [Name] | [ID] | [e.g., conversation design, docs] |
-| [Name] | [ID] | [e.g., implementation] |
+|---------|
+| Huzaifa Farhan |
+| Anas Jamil |
+| Bilal Brohi |
 
 ## Licence
 
